@@ -1,0 +1,25 @@
+body{
+	background: #c7feff;
+	padding:40px;
+	font-family: arial;
+	font-weight: lighter;
+	margin-bottom: 60px;
+}
+
+.body-content{
+	width: 80%;
+    float: right;
+}
+
+img{margin: 5px;width:300px;}
+
+#nav ul, ul{
+	list-style-type: none;
+}
+
+ul,li{margin: 0;padding:0;}
+
+a{
+	text-decoration: none;
+	color:black;
+}
